@@ -1,3 +1,4 @@
+ 
 function dwarfRollCall(dwarves) {
   var newString = ''
   for(let i = 0; i < dwarves.length; i++){
@@ -25,6 +26,7 @@ function longPlaneteerCalls(words) {
   }else {
     return false
   }
+}
 
 
 
@@ -40,7 +42,7 @@ for(var i = 0; i < foods.length; i++){
     }
     
   }
+ 
 }
   return 'no cheese!'
 }
-
