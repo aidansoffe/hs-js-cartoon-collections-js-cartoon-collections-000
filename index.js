@@ -25,11 +25,18 @@ function longPlaneteerCalls(words) {
   }else {
     return false
   }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 228f67fea12598e1e41dce07b34d69bde9bb0d2e
 }
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 228f67fea12598e1e41dce07b34d69bde9bb0d2e
 function findTheCheese (foods) {
   
 for(var i = 0; i < foods.length; i++){
@@ -42,6 +49,12 @@ for(var i = 0; i < foods.length; i++){
     
   }
  
+<<<<<<< HEAD
+}
+  return 'no cheese!'
+=======
+>>>>>>> 228f67fea12598e1e41dce07b34d69bde9bb0d2e
 }
   return 'no cheese!'
 }
+
